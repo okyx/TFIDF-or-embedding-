@@ -29,3 +29,48 @@ here is the conclusion of accuracy and val accuracy among them :
 | SVD + LSTM with many step | 23.71% | 22.25% |
 | Embedding concat svd then feed to LSTM | 100% | 90.79% |
 | LSTM then concat with SVD | 100% | 93.26% |
+
+<b>Here is the architecture of Embedding Only</b>
+<br>
+<p align="center"><img width="500" height="500" src=https://raw.githubusercontent.com/okyx/TFIDF-or-embedding-/main/foto/Embedding%20Only.png></p>  
+<br><br>
+<b>Here is the architecture of TFIDF + LSTM but only 1 step</b>
+<br>
+<p align="center"><img width="500" height="500" src=https://raw.githubusercontent.com/okyx/TFIDF-or-embedding-/main/foto/TFIDF%20+%20LSTM%20but%20only%201%20step.jpg></p>  
+<br><br>
+<b>Here is the architecture of Embedding concat svd then feed to LSTM</b>
+<br>
+<p align="center"><img width="500" height="500" src=https://raw.githubusercontent.com/okyx/TFIDF-or-embedding-/main/foto/Embedding%20concat%20svd%20then%20feed%20to%20LSTM.jpg></p>  
+<br><br>
+<b>Here is the architecture of SVD + Dense</b>
+<br>
+<p align="center"><img width="500" height="500" src=https://raw.githubusercontent.com/okyx/TFIDF-or-embedding-/main/foto/SVD%20+%20Dense.jpg></p>  
+<br><br>
+<b>Here is the architecture of TFIDF + LSTM with many step</b>
+<br>
+<p align="center"><img width="500" height="500" src=https://raw.githubusercontent.com/okyx/TFIDF-or-embedding-/main/foto/TFIDF%20+%20LSTM%20with%20many%20step.jpg></p>  
+<br><br>
+<b>Here is the architecture of LSTM then concat with SVD</b>
+<br>
+<p align="center"><img width="500" height="500" src=https://raw.githubusercontent.com/okyx/TFIDF-or-embedding-/main/foto/LSTM%20then%20concat%20with%20SVD.jpg></p>  
+<br><br>
+<b>Here is the architecture of TFIDF+Dense</b>
+<br>
+<p align="center"><img width="500" height="500" src=https://raw.githubusercontent.com/okyx/TFIDF-or-embedding-/main/foto/TFIDF+Dense.jpg></p>  
+<br><br>
+<b>Here is the architecture of SVD + LSTM with many step</b>
+<br>
+<p align="center"><img width="500" height="500" src=https://raw.githubusercontent.com/okyx/TFIDF-or-embedding-/main/foto/SVD%20+%20LSTM%20with%20many%20step.jpg></p>  
+<br><br>
+<b>Here is the architecture of Embedding concat tfidf then feed to LSTM</b>
+<br>
+<p align="center"><img width="500" height="500" src=https://raw.githubusercontent.com/okyx/TFIDF-or-embedding-/main/foto/Embedding%20concat%20tfidf%20then%20feed%20to%20LSTM.jpg></p>  
+<br><br>
+<b>Here is the architecture of SVD + LSTM but only 1 step</b>
+<br>
+<p align="center"><img width="500" height="500" src=https://raw.githubusercontent.com/okyx/TFIDF-or-embedding-/main/foto/SVD%20+%20LSTM%20but%20only%201%20step.jpg></p>  
+<br><br>
+<b>Here is the architecture of LSTM then concat with TFIDF</b>
+<br>
+<p align="center"><img width="500" height="500" src=https://raw.githubusercontent.com/okyx/TFIDF-or-embedding-/main/foto/LSTM%20then%20concat%20with%20TFIDF.jpg></p>  
+<br><br>
